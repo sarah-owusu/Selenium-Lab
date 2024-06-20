@@ -9,7 +9,7 @@ import java.time.Duration;
 
 public class FormFields {
     WebDriver driver ;
-    private final WebDriverWait wait;
+    final WebDriverWait wait;
 
     public FormFields(WebDriver driver){
         this.driver = driver;

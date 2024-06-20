@@ -40,7 +40,6 @@ public class PopUps extends FormFields {
         Alert Alert = driver.switchTo().alert();
         Alert.sendKeys("Sarah");
         Alert.accept();
-
     }
 
     }
